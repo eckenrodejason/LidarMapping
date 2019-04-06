@@ -14,3 +14,19 @@ Utilizing a single point LiDAR device ( Garmin LiDAR Lite v3), several motors, a
 
 
 ###LiDAR Circuit
+
+
+
+##List of Materials
+
+Garmin LiDAR Lite v3
+Arduino Uno 
+9g Servo motor x2
+Micro SD card module
+680ūF Capcitor
+5V-9V Voltage Regulator
+Portable 5w Power Supply
+Micro Usb Cable
+Mini Usb Cable
+
+###List of Materials
