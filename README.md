@@ -9,5 +9,7 @@ Utilizing a single point LiDAR device ( Garmin LiDAR Lite v3), several motors, a
 [Lidar Circuit_V1.pdf]
 (https://github.com/eckenrodejason/LidarMapping/files/3050785/Lidar.Circuit_V1.pdf)
 
+<img src="https://github.com/eckenrodejason/LidarMapping/files/3050785/Lidar.Circuit_V1.pdf" />﻿
+
 
 ###LiDAR Circuit
