@@ -15,6 +15,11 @@ Utilizing a single point LiDAR device ( Garmin LiDAR Lite v3), several motors, a
 
 ###LiDAR Circuit
 
+![Garmin_LiDAR_LITEv3_pinout]
+(https://user-images.githubusercontent.com/38121669/55688311-e90e3900-592b-11e9-8396-0afb81b35c07.png)
+
+
+
 
 
 ##List of Materials
