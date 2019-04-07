@@ -19,7 +19,7 @@ Utilizing a single point LiDAR device ( Garmin LiDAR Lite v3), several motors, a
 
 
 
-
+![Garmin_LiDAR_LITEv3_Schematic](https://user-images.githubusercontent.com/38121669/55688321-0b07bb80-592c-11e9-8eb0-97c0da70dbd7.png)
 
 ##List of Materials
 
